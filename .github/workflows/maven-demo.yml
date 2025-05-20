@@ -23,7 +23,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: maven-examples/maven-example
+        working-directory: maven-examples/maven-jib-example
     
     steps:
       - name: Checkout
